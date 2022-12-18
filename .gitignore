@@ -1,6 +1,10 @@
 # Default
 node_modules
 .env
+.vscode/*
+.yarn/*
+!.vscode/settings.json
+
 # Dependency directories
 node_modules/
 jspm_packages/
